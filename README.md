@@ -4,7 +4,7 @@ A Microsoft Power Platform solution for structured document and metadata intake 
 
 ## Architecture
 
-![File Upload Portal architecture](images/architecture/file-upload-portal-architecture.png)
+![File Upload Portal architecture](images/architecture/file-upload-portal-diagram.png)
 
 The solution uses a Power Apps Canvas App for document submission and history viewing, Microsoft Dataverse as the system of record, and a Dataverse-triggered Power Automate flow for confirmation emails.
 
